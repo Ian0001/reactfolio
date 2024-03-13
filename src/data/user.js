@@ -1,24 +1,24 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Ian Vrdoljak Portfolio",
+		name: "Ian Vrdoljak",
+		email: "ianvrdoljak@hotmail.es",
+		logo: "../ian.jpg",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/Ian0001",
+		linkedin: "https://www.linkedin.com/in/ian-vrdoljak-717392258/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Full-stack web developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Soy de Argentina, Chaco. Full Stack Web Developer (Henry Bootcamp) desde 2023. Además soy Ingeniero Agrónomo, profesión en la cual he ejercido como asesor en un establecimiento rural familiar y como vendedor de insumos. Estas experiencias me ayudaron a desarrollar competencias como el  trabajo en equipo, autonomía y resolución de problemas; y a adquirir conocimientos en metodologías ágiles (Scrum), Github, estructuras de datos, React, Redux, HTML, CSS.",
 	},
 
 	about: {
@@ -35,49 +35,22 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Nonflix",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Nonflix es un proyecto de aprendizaje que realicé, junto a otros compañeros, de una página web para comprar películas.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Github proyecto",
+			link: "https://github.com/AheverMateo/Front-end-PF",
 		},
 
 		{
-			title: "Project 2",
+			title: "Pokemon API",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Pokemon API es una Single Page Application que realicé, de manera individual, durante el cursado en la academia Henry.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			linkText: "Github proyecto",
+			link: "https://github.com/Ian0001/ProyectoIndividualHenry-PokemonApi",
+		}
 	],
 };
 

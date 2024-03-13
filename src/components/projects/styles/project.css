@@ -3,8 +3,9 @@
 .project {
 	mix-blend-mode: normal;
 	border-radius: 20px;
-	opacity: 0.8;
+	
 	height: 100%;
+	background-color: rgb(100, 87, 168);
 }
 
 .project a {
@@ -12,7 +13,7 @@
 }
 
 .project:hover {
-	background: #fafafa;
+	background: rgb(126, 117, 172);
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
