@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer",
 		description:
-			"Soy de Argentina, Chaco. Full Stack Web Developer (Henry Bootcamp) desde 2023. Además soy Ingeniero Agrónomo, profesión en la cual he ejercido como asesor en un establecimiento rural familiar y como vendedor de insumos. Estas experiencias me ayudaron a desarrollar competencias como el  trabajo en equipo, autonomía y resolución de problemas; y a adquirir conocimientos en metodologías ágiles (Scrum), Github, estructuras de datos, React, Redux, HTML, CSS.",
+			"Soy de Argentina, Chaco. Full Stack Web Developer (Henry Bootcamp) desde 2023. Además soy Ingeniero Agrónomo, profesión en la cual he ejercido como asesor en un establecimiento rural familiar y como vendedor de insumos. Estas experiencias me ayudaron a desarrollarme como persona y profesional, y desarrollar competencias como el trabajo en equipo, autonomía y resolución de problemas. Durante el bootcamp de Henry he adquirido conocimientos en metodologías ágiles (Scrum), Github, estructuras de datos, React, Redux, HTML, CSS. Decidí dedicarme a la programación desde el año 2023 ya que siempre tuve interés en la informática y tecnología. Deseo trabajar como programador full time y seguir aprendiendo más.",
 	},
 
 	about: {
